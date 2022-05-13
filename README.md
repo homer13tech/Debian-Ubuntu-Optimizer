@@ -6,8 +6,8 @@ It is designed to help optimze and install apps to a new or old Debain based sys
 To use this script:
 1. Download the script
 2. cd to the folder where the script is location
-3. type the command chmod +x ./DEBIAN-UBUNTU-OPTIMIZAER.sh
-4. type the command ./DEBIAN-UBUNTU-OPTIMIZAER.sh
+3. type the command chmod +x ./DEBIAN-UBUNTU-OPTIMIZER-v1.2.sh
+4. type the command ./DEBIAN-UBUNTU-OPTIMIZER-v1.2.sh
 
 This script has currently been tested on the following systems:
 -Ubuntu 22.04 amd64
