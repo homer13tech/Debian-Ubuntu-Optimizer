@@ -21,3 +21,4 @@ v.1.0         May 6, 2022         Base Script
 v.1.1         May 11, 2022        Code Cleanup, No New Functionality
 v.1.2         May 13, 2022        Added Utilities Subsection, added emacs to development tools
 v.1.3         May 13, 2022        Added Customization Subsection and tools under it, aligned code
+
