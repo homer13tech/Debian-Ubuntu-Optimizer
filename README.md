@@ -14,16 +14,10 @@ This script has currently been tested on the following systems:
 
 For feature requests please email homer13tech@gmail.com
 
+Change Log
 
-#################################################################################################
-#  Change Log                                                        
-#################################################################################################
-#  Version	   Release Date       Notes                               
-#  v.1.0   	   May 6, 2022		    Base Script                         
-#  v.1.1       May 11, 2022       Code Cleanup, No New Functionality  
-#  v.1.2	     May 13, 2022		    Added Utilities Subsection, added emacs to dev tools
-#  v.1.3       May 13, 2022       Added Customization Section and subtools under it, aligned code
-#
-#
-#
-#################################################################################################
+Version       Release Date        Notes
+v.1.0         May 6, 2022         Base Script
+v.1.1         May 11, 2022        Code Cleanup, No New Functionality
+v.1.2         May 13, 2022        Added Utilities Subsection, added emacs to development tools
+v.1.3         May 13, 2022        Added Customization Subsection and tools under it, aligned code
