@@ -16,6 +16,10 @@ For feature requests please email homer13tech@gmail.com
 
 Change Log
 
+Version: v.1.4
+Release Date: May 17, 2022
+Notes: Added Lazarus, FileZilla Client, and Opera
+
 Version: v.1.3
 Release Date: May 13, 2022
 Notes: Added Customization Subsection and tools under it, aligned code
